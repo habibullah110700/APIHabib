@@ -1,2 +1,2 @@
 # APIHabib
-![Tampilan](screenshot.png)
+![Tampilan](APIHabibullah.gif)
